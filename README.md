@@ -9,11 +9,11 @@ Predicting future closing prices.
 
 Data:
 The dataset includes daily price data for six cryptocurrencies:
-Binance
-Bitcoin
-Dogecoin
-Ethereum
-Tether USD
+Binance,
+Bitcoin,
+Dogecoin,
+Ethereum,
+Tether USD,
 XRP
 
 Data source:
