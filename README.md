@@ -4,7 +4,7 @@ This project analyses the cryptocurrency market using machine learning technique
 Overview:
 The analysis explores:
 Grouping cryptocurrencies based on historical price movements.
-Categorizing cryptocurrencies by volatility levels.
+Categorising cryptocurrencies by volatility levels.
 Predicting future closing prices.
 
 Data:
